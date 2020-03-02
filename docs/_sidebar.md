@@ -1,14 +1,12 @@
-- 设计模式
-
-  - [第一章节](desgin-pattern/Java面试必备：手写单例模式.md)
-  - [工厂模式](desgin-pattern/工厂模式超详解（代码示例）.md)
-  - [原型模式](desgin-pattern/设计模式之原型模式.md)
-  - [代理模式](desgin-pattern/设计模式之代理模式.md)
-
-- Spring框架
-
-  - [初识spring框架](spring/【10分钟学Spring】：（一）初识Spring框架.md)
-  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
-  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
-
+- 算法
+  - 剑指Offer题解
+    - [数组中重复的数字](Algorithm/数组中重复的数字.md)
+    - 二维数组中的查找
+  - Leetcode题解
+  - 数据结构与算法基础
+  - 笔试面试真题
+- 操作系统
+- 计算机网络
 - 数据库
+- Java
+- 系统架构设计
